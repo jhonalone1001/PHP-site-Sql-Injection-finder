@@ -20,14 +20,24 @@ USAGES :
 INTERFACE APPEARENCE : (sorry i gave a live test result)
 =========================================================
 Enter the domain name (e.g., example.com): iitp.ac.in
+
 Do you want to use random user agents for requests? (y/n): y
+
 Do you want to scan ports using Nmap? (y/n): n
+
 [*] Skipping Nmap port scan.
+
 [+] IP Address of iitp.ac.in: 14.139.194.4
+
 [!] Nmap is not available. Skipping port scanning.
+
 [+] The website is using PHP
+
 [+] Joomla CMS detected
+
 [+] Server detected: Apache
+
 [*] Crawling http://iitp.ac.in
+
 
 
